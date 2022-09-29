@@ -1,0 +1,63 @@
+a{  margin-left: 90px;
+    margin-right: 80px;
+    color:#c7eb7f;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none ;
+}
+a:hover{
+    color: white;
+    background-color: #c7eb7f
+
+    ;
+}
+/*index.2.html*/
+h1 {
+    color:#ffffff;
+    background-color:#fa8dae;
+    margin-top: 0px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+video{
+    margin-top: 30px;
+    margin-left: 400px;
+    margin-top: 30px;
+    }
+
+/*productos*/
+img{margin-top: 30px;
+}
+
+
+/*comohacertupedido*/
+   p{font-family: sans-serif;}
+   li{margin-top: 50px;
+      margin-left: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div{
+    margin-top: 30px;
+}
+
+/*detrasdefango*/
+img{
+    margin-left: 550px;
+    margin-top: 50px;
+}
+h2{font-family: sans-serif;
+    display: inline-block;
+    margin-top: 100px;
+    color:#f8749c;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+/*contacto*/
+div{
+    margin-top: 70px;
+    margin-left: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+
+
